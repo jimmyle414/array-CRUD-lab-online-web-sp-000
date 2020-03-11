@@ -1,15 +1,15 @@
 def create_an_empty_array
- array = []
+ create_an_empty_array = []
   
 end
 
 def create_an_array
- array = ["a", "b", "c", "d"]
+ create_an_array = ["a", "b", "c", "d"]
   
 end
 
 def add_element_to_end_of_array(array, element)
- array.push("e")
+add_element_to_end_of_array.push(create_an_array, e)
  puts array.inspect
   
 end
